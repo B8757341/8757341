@@ -87,7 +87,7 @@ cat >> "$FILE2" <<EOL
 <font color="#9932CC">&#187; NO TORRENT !!!</font><br>
 <font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
 <br>
-<b><font color="#FF6347">SSH</font> Auto Script 2.2</b>
+<b><font color="#FF6347">⛦ CONFIGURED BY DARK ⛦</font></b>
 <br>
 EOL
 
